@@ -14,10 +14,10 @@ Fastlink目前协议支持SS和VMESS。按照教程推荐的默认客户端使�
 
 **访问官网**：点击下方链接进入
 
-[ **fastlink机场官方地址入口1**](https://flafflnk01.flaff9.cc/auth/register?code=xF3nYSWz)
-[ **fastlink机场官方地址入口2**](https://web03.fastlink.cc/auth/register?code=xF3nYSWz)
-[ **fastlink机场官方地址入口3**](https://www.fastlink.li/auth/register?code=xF3nYSWz)
-[ **fastlink机场官方地址入口4**](https://www.flcn.cc/auth/register?code=xF3nYSWz)
+- [ **fastlink机场官方地址入口1**](https://flafflnk01.flaff9.cc/auth/register?code=xF3nYSWz)
+- [ **fastlink机场官方地址入口2**](https://web03.fastlink.cc/auth/register?code=xF3nYSWz)
+- [ **fastlink机场官方地址入口3**](https://www.fastlink.li/auth/register?code=xF3nYSWz)
+- [ **fastlink机场官方地址入口4**](https://www.flcn.cc/auth/register?code=xF3nYSWz)
 
 **点击注册**：在主页右上角找到并点击“注册”按钮。
 
